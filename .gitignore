@@ -1,0 +1,8 @@
+/CMakeLists.txt
+/cmake-build-debug/
+/.vs
+/.idea/inspectionProfiles
+*.sln
+*.vcxproj
+*.filters
+*.user
