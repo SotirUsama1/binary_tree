@@ -6,3 +6,5 @@
 *.vcxproj
 *.filters
 *.user
+/x64/Debug
+/Binary Trees/x64/Debug
